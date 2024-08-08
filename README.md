@@ -1,5 +1,5 @@
 # Desafios-css-basico
-Desafios de html básico, visando testar minhas habilidades.
+Desafios de css básico, visando testar minhas habilidades.
 
 ## Exercício 1
 Crie dois parágrafos com:
