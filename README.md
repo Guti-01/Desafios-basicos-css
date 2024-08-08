@@ -1,4 +1,4 @@
-# Desafios-html-basico
+# Desafios-css-basico
 Desafios de html básico, visando testar minhas habilidades.
 
 ## Exercício 1
